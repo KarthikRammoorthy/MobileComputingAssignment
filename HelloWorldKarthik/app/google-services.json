@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "645465956716",
+    "firebase_url": "https://helloworldkarthik-ce7e3.firebaseio.com",
+    "project_id": "helloworldkarthik-ce7e3",
+    "storage_bucket": "helloworldkarthik-ce7e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645465956716:android:5ceb2fd381ddf3e5",
+        "android_client_info": {
+          "package_name": "com.example.karthikrammoorthy.helloworldkarthik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645465956716-9f0ig9gorimmgjtfr5bt5q1b1k5easao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ084YbO35IRUY0Z2F4Z4QQVRSdaXM5Vw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

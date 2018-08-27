@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StopwatchApplication</string>
+    <string name="btnLAP">LAP</string>
+    <string name="lblPause">Pause</string>
+    <string name="lblStart">Start</string>
+    <string name="lblReset">Reset</string>
+    <string name="lblTimer">0:00:000</string>
+
+</resources>
